@@ -11,7 +11,7 @@
 
 #u712:hover
 {
-	background-color: #FBB03B;
+	background-color: transparent;
 }
 
 #u712:active
@@ -32,15 +32,24 @@
 	position: relative;
 }
 
+#u712:hover #u714-4 p
+{
+	color: #F7931E;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u712:active #u714-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
 #u721
 {
 	background-color: transparent;
 	position: relative;
-}
-
-#u721:hover
-{
-	background-color: #FBB03B;
 }
 
 #u721:active
@@ -61,15 +70,24 @@
 	position: relative;
 }
 
+#u721:hover #u724-4 p
+{
+	color: #F7931E;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u721:active #u724-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
 #u726
 {
 	background-color: transparent;
 	position: relative;
-}
-
-#u726:hover
-{
-	background-color: #FBB03B;
 }
 
 #u726:active
@@ -90,15 +108,24 @@
 	position: relative;
 }
 
+#u726:hover #u729-4 p
+{
+	color: #F7931E;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u726:active #u729-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
 #u733
 {
 	background-color: transparent;
 	position: relative;
-}
-
-#u733:hover
-{
-	background-color: #FBB03B;
 }
 
 #u733:active
@@ -119,6 +146,20 @@
 	position: relative;
 }
 
+#u733:hover #u734-4 p
+{
+	color: #F7931E;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u733:active #u734-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
 #u531,#menuu333,#u711,#u718,#u725,#u732,#u739
 {
 	position: relative;
@@ -128,11 +169,6 @@
 {
 	background-color: transparent;
 	position: relative;
-}
-
-#u742:hover
-{
-	background-color: #FBB03B;
 }
 
 #u742:active
@@ -158,8 +194,24 @@
 	position: relative;
 }
 
+#u742:hover #u743-4 p
+{
+	color: #F7931E;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
+#u742:active #u743-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	text-decoration: underline;
+}
+
 #u712.MuseMenuActive #u714-4 p,#u721.MuseMenuActive #u724-4 p,#u726.MuseMenuActive #u729-4 p,#u733.MuseMenuActive #u734-4 p,#u742.MuseMenuActive #u743-4 p
 {
+	color: #FFFFFF;
+	visibility: inherit;
 	text-decoration: underline;
 	font-weight: bold;
 }

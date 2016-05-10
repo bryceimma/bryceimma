@@ -1,0 +1,57 @@
+create schema gip_taak_08_vandenBrande_Bryce;
+use gip_taak_08_vandenBrande_Bryce;
+
+CREATE TABLE `gip_taak_08_vandenBrande_Bryce`.`User` (
+  `idUser` INT NOT NULL,
+  `Naam` VARCHAR(45) NULL,
+  `Voornaam` VARCHAR(45) NULL,
+  `Klas` VARCHAR(45) NULL,
+  `Functie` VARCHAR(45) NULL,
+  PRIMARY KEY (`idUser`));
+
+CREATE TABLE `gip_taak_08_vandenBrande_Bryce`.`Leerstof` (
+  `Owner_id` INT NOT NULL,
+  `Vak` VARCHAR(45) NULL,
+  `Vak_id` VARCHAR(45) NULL,
+  `Inhoud` VARCHAR(45) NULL,
+  `Item_id` VARCHAR(45) NULL,
+  PRIMARY KEY (`Item_id`));
+
+CREATE TABLE `gip_taak_08_vandenBrande_Bryce`.`Reacties` (
+  `idreactie` INT NOT NULL,
+  `Writer` INT NULL,
+  `Leerstof` INT NULL,
+  `Tekst` VARCHAR(45) NULL,
+  PRIMARY KEY (`idreactie`));
+
+insert into User (idUser, Naam, Voornaam, Klas, Functie)
+values
+(1, "Vermeulen", "Michiel", "5Ib", "Leerling"),
+(2, "Van de Caveye", "Cedric", "6H", "Leerling"),
+(3, "Goosens", "Jan", "geen", "Leerkracht");
+
+insert into Leerstof (Owner_id, Vak, Vak_id, Inhoud, Item_id)
+values
+(3, "wiskunde", 1, "Tabel machten", 1),
+(3, "Frans", 2, "Schema avoir", 2); 
+
+insert into Reacties (idreactie, Writer, Leerstof, Tekst)
+values
+(1, 1, 2, "Ik begrijp het"),
+(2, 2, 2, "Ik begrijp het niet");  
+
+/* We tonen het materiaal dat door Meneer Goosens (leerkracht) gepost is. */
+SELECT *
+FROM Leerstof join User 
+on Leerstof.Owner_id = User.idUser;
+
+/* We tonen de reacties die er zijn voor het schema van avoir van Frans */
+SELECT Reacties.Tekst, User.Naam, User.Voornaam 
+FROM Reacties Join Leerstof 
+on Leerstof.Item_id = Reacties.Leerstof 
+JOIN User 
+ON User.idUser = Reacties.writer
+WHERE Leerstof.Item_id = 2; 
+
+
+

@@ -40,11 +40,6 @@
 	border-color: transparent;
 }
 
-#u1456-4.MuseLinkActive
-{
-	border-color: #000000;
-}
-
 #u1456-4:hover p
 {
 	color: #FBB03B;
@@ -61,6 +56,53 @@
 }
 
 #u1457-4:hover p
+{
+	color: #FBB03B;
+	visibility: inherit;
+}
+
+#u2569-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+}
+
+#u2569-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u2569-4:hover p
+{
+	color: #FBB03B;
+	visibility: inherit;
+}
+
+#u3317-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+}
+
+#u3317-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u1456-4.MuseLinkActive,#u2569-4.MuseLinkActive,#u3317-4.MuseLinkActive
+{
+	border-color: #000000;
+}
+
+#u3317-4:hover p
 {
 	color: #FBB03B;
 	visibility: inherit;
@@ -90,7 +132,7 @@
 	visibility: inherit;
 }
 
-#u1456-4.MuseLinkActive p,#u1457-4.MuseLinkActive p,#u1768-4.MuseLinkActive p
+#u1456-4.MuseLinkActive p,#u1457-4.MuseLinkActive p,#u2569-4.MuseLinkActive p,#u3317-4.MuseLinkActive p,#u1768-4.MuseLinkActive p
 {
 	color: #000000;
 	visibility: inherit;

@@ -81,12 +81,6 @@ body
 	body { text-rendering:auto; }
 }
 
-a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 a:link
 {
 	color: #0000FF;
@@ -107,8 +101,8 @@ a:hover
 
 a:active
 {
-	color: #EE0000;
-	text-decoration: underline;
+	color: #FF0000;
+	text-decoration: none;
 }
 
 a.nontext /* used to override default properties of 'a' tag */
@@ -117,6 +111,36 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 	font-style: normal;
 	font-weight: normal;
+}
+
+a,.javascript-app a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
+.javascript-app a:link
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+.javascript-app a:visited
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+.javascript-app a:hover
+{
+	color: #FBB03B;
+	text-decoration: none;
+}
+
+.javascript-app a:active
+{
+	text-decoration: none;
+	color: inherit;
 }
 
 .normal_text

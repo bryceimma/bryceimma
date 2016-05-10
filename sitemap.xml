@@ -1,348 +1,546 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bryceimma.github.io/assets/workflows-markdown.md</loc>
+    <loc>http://gip.bryce.be/assets/workflows-markdown.md</loc>
     <lastmod>2015-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/scripts/form_check.php</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/assets/gip_taak_08_vandenbrande_bryce</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/scripts/form_throttle.php</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/scripts/form_check.php</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/scripts/form-u2425.php</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/scripts/form_throttle.php</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/scripts/form-u2372.php</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/scripts/form-u2425.php</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/scripts/form-u854.php</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/scripts/form-u2372.php</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/header11.jpg</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/scripts/form-u854.php</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/leadership-development-model-gip-1-638.jpg</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/header11.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/stage-300x135.jpg</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/leadership-development-model-gip-1-638.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/564614_604462879590729_1920285933_n.jpg</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/stage-300x135.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2334.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/564614_604462879590729_1920285933_n.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2334-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2334.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2413.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2334-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2413-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2413.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/facebook.jpg</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2413-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2415.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/facebook.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2415-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2415.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2447-17.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2415-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2447-17-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2447-17.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2447-17-m.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2447-17-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2447-17-fs.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2447-17-m.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2173.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2447-17-fs.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2173-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2173.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/pijl.jpg</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2173-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2360.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/pijl.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2360-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2360.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2362.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2360-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2362-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2362.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2394-17.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2362-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2394-17-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2394-17.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2394-17-m.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2394-17-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u2394-17-fs.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2394-17-m.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u1762.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u2394-17-fs.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u1762-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u1762.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u1730.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u1762-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u1730-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u1730.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u1742.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u1730-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u1742-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u1742.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u887-17.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u1742-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u887-17-r.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u887-17.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u887-17-m.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u887-17-r.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/images/u887-17-fs.png</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u887-17-m.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/index.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/u887-17-fs.png</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/index.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/gip.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/12304009_938939196143094_297113877183208635_o.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/gip.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/gip.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/stage.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/blank.gif</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/stage.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/stage.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/over-mij.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/12314661_938939286143085_5014712225072395976_o.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/over-mij.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/over-mij.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/contact.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/12304009_938939196143094_297113877183208635_o93x124.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/contact.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/contact.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/softwareontwikkeling.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/12314661_938939286143085_5014712225072395976_o93x70.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/softwareontwikkeling.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/softwareontwikkeling.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/engels.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/loading.gif</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/engels.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/engels.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/frans.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/afbeelding1.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/frans.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/frans.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/it-autobiography.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/afbeelding2.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/it-autobiography.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/it-autobiography.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/faq.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/afbeelding3.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/faq.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/faq.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/workflows.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/afbeelding4.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://bryceimma.github.io/phone/workflows.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://bryceimma.github.io/tablet/workflows.html"/>
   </url>
   <url>
-    <loc>http://bryceimma.github.io/workflows2.html</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>http://gip.bryce.be/images/afbeelding5.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding6.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding7.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding160x47.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding2141x45.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding380x45.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding460x107.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding560x107.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding660x107.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/afbeelding781x45.jpg</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/vmware_esxi.png</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/images/taak8v2.png</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/index.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/gip.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/gip.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/gip.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/stage.html</loc>
+    <lastmod>2016-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/stage.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/stage.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/over-mij.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/over-mij.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/over-mij.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/contact.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/contact.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/softwareontwikkeling.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/softwareontwikkeling.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/softwareontwikkeling.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/engels.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/engels.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/engels.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/frans.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/frans.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/frans.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/it-autobiography.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/it-autobiography.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/it-autobiography.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/faq.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/faq.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/faq.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/workflows.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://gip.bryce.be/phone/workflows.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://gip.bryce.be/tablet/workflows.html"/>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/workflows2.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/faqwebsite.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/it-tapa.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/instructiefilmpje.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/sessie.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/systeem-en-netwerkbeheer.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/case-studie-stagebedrijf.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/reportage.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/review-of-a-networktool.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/use-case-diagramma-database.html</loc>
+    <lastmod>2016-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gip.bryce.be/huisstijl.html</loc>
+    <lastmod>2016-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
